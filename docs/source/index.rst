@@ -9,6 +9,8 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project. Mjam mjam. 
 
+I love coockies very much. 
+
 
 Lumache has its documentation hosted on Read the Docs. 
 
